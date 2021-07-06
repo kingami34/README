@@ -20,11 +20,11 @@ Then your dependencies will be added package.json, & package-lock.json
 
 ## Usage
 
-  ![GitHub Logo](../Assets/images/RMEPIC.PNG)
+  ![README](./Assets/images/RMEPIC.PNG)
 
 
 ## License
- [http://www.apache.org/licenses/].
+ [Apache](http://www.apache.org/licenses/)
 ---
 
 
