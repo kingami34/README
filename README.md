@@ -10,13 +10,18 @@
 ## Table of Contents (Optional)
 
 - [Installation](#installation)
+
 - [Usage](#usage)
+
 - [License](#license)
 
+
 ## Installation
-The first thing you need to do is to go into VScode and create a README project. 
-Then install npm inquirer
-Then your dependencies will be added package.json, & package-lock.json
+>The first thing you need to do is to go into VScode and create a README project. 
+
+>Then install npm inquirer
+
+>Then your dependencies will be added package.json, & package-lock.json
 
 ## Usage
 
@@ -24,6 +29,7 @@ Then your dependencies will be added package.json, & package-lock.json
 
 
 ## License
+
  [Apache](http://www.apache.org/licenses/)
 ---
 
