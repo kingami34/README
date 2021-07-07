@@ -15,6 +15,9 @@ function renderLicenseLink(license) {
   if (license === "apache"){
     return `[http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)`
   }
+  if (license === "MIT"){
+    return `[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)`
+  }
 }
 
 // TODO: Create a function that returns the license section of README
