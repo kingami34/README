@@ -48,7 +48,7 @@ inquirer
         type: 'list',
         message: 'Which license are you using?',
         name: 'license',
-        choices:["apache","none"]
+        choices:["apache","MIT" , "none"]
     },
    
 
