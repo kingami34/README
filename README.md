@@ -1,5 +1,6 @@
 # <README>
-?License=flat-square&logo=appveyor
+
+![MIT](https://img.shields.io/badge/license-MIT-brightgreen)
 
 ## Description
 
