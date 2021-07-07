@@ -20,7 +20,7 @@
               <h1>Jeff</h1>
           </div>
           <div>
-              <h1>kingami34@gmail.com</h1>
+              <h1>Kingami34@gmail.com</h1>
           </div>
           
       
