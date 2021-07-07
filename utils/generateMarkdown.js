@@ -93,10 +93,6 @@ ${data.Usage}
 ${renderLicenseLink(data.license)}
 ${renderLicenseSection(data.license)}
 
-  [Apache](http://www.apache.org/licenses/)
----
-  
-  
   
 `;
 }
