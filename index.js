@@ -53,6 +53,7 @@ inquirer
    
 
   ])
+  //Readme file was added to the generateMarkdown 
   .then((data) => { 
       const Readme = generateMarkdown(data)
     const filename = `${data.name.toLowerCase().split(' ').join('')}.json`;
