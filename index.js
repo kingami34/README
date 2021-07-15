@@ -2,6 +2,7 @@
 const fs =require("fs");
 const inquirer = require("inquirer")
 const generateMarkdown = require ("./utils/generateMarkdown")
+
 //Question for Readme assignment in a Nested Object
 inquirer
   .prompt([
@@ -60,7 +61,7 @@ inquirer
 
     // fs.writeFile(filename, JSON.stringify(data, null, '\t'), (err) =>
     //   err ? console.log(err) : console.log('Success!')
-    fs.writeFile('./dist/Readme.md', Readme, (err) =>
+    fs.writeFile('./dist/Readme', Readme, (err) =>
   err ? console.error(err) : console.log('Success!')
 );
     
