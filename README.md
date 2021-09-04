@@ -26,7 +26,7 @@
 
 ## Usage
 
-  ![README](./Assets/images/RMEPIC.PNG)
+  ![README](./Assets/images/ReadmePic.gif)
 
 
 ## License
